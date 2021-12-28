@@ -1,6 +1,6 @@
 <h1 align="center">Raddarr Installer </h1>
 <p>
-this article follows the guide in this article here
+this script follows a guide in this article here
 https://varhowto.com/install-radarr-ubuntu-20-04/
 </p>
 
